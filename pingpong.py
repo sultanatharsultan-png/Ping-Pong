@@ -53,4 +53,4 @@ while game:
         raket_left.show()
         bola.show()
     display.update()
-    clock.tick(60)
+    clock.tick(60)                  
